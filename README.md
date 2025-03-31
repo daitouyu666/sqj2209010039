@@ -1,5 +1,6 @@
 # sqj2209010039
 # shiquanjie的求职简历  
+姓名：shiquanjie
 学号：2209010039
 
 ---
